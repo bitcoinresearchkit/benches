@@ -67,7 +67,7 @@ Bytes Read (GiB)
 <rect x="55" y="59" width="321" height="36" opacity="0.98" fill="#121218" stroke="none"/>
 <rect x="55" y="59" width="321" height="36" opacity="1" fill="none" stroke="#121218"/>
 <text x="95" y="69" dy="0.76em" text-anchor="start" font-family="monospace" font-size="16.129032258064516" opacity="0.9" fill="#E6E6F0">
-v0.2.0-mac_mini_16gb_ext_ssd
+v0.2.5-mac_mini_16gb_ext_ssd
 </text>
 <polyline fill="none" opacity="1" stroke="#FF6384" stroke-width="1" points="65,77 85,77 "/>
 </svg>
