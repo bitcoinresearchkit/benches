@@ -1,31 +1,9 @@
 # Benchmarks
 
-Various benchmarks of BRK
+Various benchmarks of BRK. Please note that some benches are ran longer after being over, to see how memory evolves over time. Check out the `progress.{csv,svg}` to see the actual time it took to complete.
 
 ## brk
 
-A full end-to-end run: `indexer` and `computer` back to back
+mbp m3 pro: 3h53
 
-![progress](/brk/progress.svg)
-
-![memory](/brk/memory.svg)
-
-![disk usage](/brk/disk.svg)
-
-![io read](/brk/io_read.svg)
-
-![io write](/brk/io_write.svg)
-
-## brk_indexer
-
-A `brk_indexer` full run.
-
-![progress](/brk_indexer/progress.svg)
-
-![memory](/brk_indexer/memory.svg)
-
-![disk usage](/brk_indexer/disk.svg)
-
-![io read](/brk_indexer/io_read.svg)
-
-![io write](/brk_indexer/io_write.svg)
+mac mini m4: ~7h
